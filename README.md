@@ -1,3 +1,7 @@
+LINK TO THE GAME:
+https://captain-t2004.itch.io/moveandhit
+
+
 # MoveAndHit
 Improving boring games by combining them with reality.
 MoveAndHit
